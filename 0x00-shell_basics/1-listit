@@ -1,1 +1,2 @@
-ls, contains list of current directories
+#!/bin/bash
+ls
